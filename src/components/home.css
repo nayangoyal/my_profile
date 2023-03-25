@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra&display=swap');
+
+.left_part{
+    margin-top: 70px;
+    margin-left: 473px;
+}
+
+.right_part{
+    margin-right: 460px;
+    margin-top: 60px;
+}
+
+.head{
+    margin-bottom: 20px;;
+}
+
+.connection{
+    margin-top: 20px;
+}
+
+.connection .git{
+    margin-left: 14px;
+}
+
+.footer{
+    font-family: 'Alkatra', cursive;
+    margin-left: 470px;
+    margin-top: 110px;
+    display: flex;
+}
+
+.footer .sign{
+    margin-left: 16px;
+}
+
+.footer .html{
+    color: rgb(254, 64, 1);
+    margin-left: 58px;
+    margin-top: 4px;
+}
+
+.footer .css{
+    color: rgb(7, 86, 242);
+    margin-left: 48px;
+    margin-top: 4px;
+}
+
+.footer .javas{
+    margin-left: 48px;
+    margin-top: 2px;
+}
+.footer .react{
+    margin-left: 48px;
+    margin-top: 2px;
+}
+.footer .boots{
+    margin-left: 48px;
+    margin-top: 2px;
+}
